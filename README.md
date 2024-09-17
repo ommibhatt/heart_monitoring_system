@@ -23,4 +23,4 @@ The system reads heart rate and SpO2 data from the MAX30100 sensor and displays 
 The heart and SpO2 symbols were converted into byte arrays using [Image2Cpp](https://javl.github.io/image2cpp/).
 
 ## Code
--  **heart.ino**
+-  **[heart.ino](https://github.com/ommibhatt/heart_monitoring_system/blob/main/heart.ino)**
