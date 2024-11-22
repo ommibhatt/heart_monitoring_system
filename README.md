@@ -1,6 +1,6 @@
 # Heart Monitoring System
 
-This project is a simple heart rate and SpO2 monitoring system using an SPI OLED LCD Module and a MAX30100 Pulse Oximeter Heart Rate Sensor Module.
+This project is a simple heart rate and SpO2 monitoring system using an SPI OLED LCD Module and a MAX30100(Pulse Oximeter Heart Rate Sensor Module).
 
 ## Features
 - **Real-Time Monitoring**: Displays heart rate (bpm) and SpO2 (%) on an OLED screen.
